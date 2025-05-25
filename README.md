@@ -7,6 +7,8 @@
 <h3> Qompass AI on CSS </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-css)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/css/total?style=flat-square)
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </a>
